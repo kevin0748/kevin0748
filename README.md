@@ -1,4 +1,35 @@
-### Hi there 👋
+# Hi, I'm Kevin 👋
+Software Engineer with 3 years of backend developing experience. Coding in Java, Golang and Python. Familiar with monolitic, microservice and serverless arthitectures.
+
+### 👨‍🎓 Education
+- **Texas A&M University** 
+  - Master of Computer Science
+- **National Chiao Tung University**
+  - Bachelor of Computer Science
+
+### 👨‍💻 Experience
+- **Amazon** (Seattle, WA)
+  - Software Engineer Intern `May 2022 – Aug 2022`
+- **KKStream Limited** (Taipei, Taiwan) 
+  - Software Engineer `Aug 2018 – Jun 2021`
+- **Perfect Corp** (Taipei, Taiwan) 
+  - Software Engineer Intern `Jul 2016 – Aug 2016`
+
+### 🛠 Technical Stack
+*   Java, Golang, Python, C/C++, SQL, PHP, Ruby, TypeScript
+*   MySQL, MongoDB, DynamoDB, Redis, Elasticsearch
+*   AWS, Docker, Kubernetes, Terraform, Git, Linux, Shell, GraphQL, gRPC
+*   Laravel, Spring Boot, Django
+
+
+### 🔭 Projects
+- 
+- 
+- 
+
+
+### 📫 How to reach me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chen-chuan-chang/)
 
 <!--
 **kevin0748/kevin0748** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +45,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
