@@ -23,12 +23,15 @@ Software Engineer with 3 years of backend developing experience. Coding in Java,
 
 
 ### 🔭 Projects
-- 
-- 
-- 
+- Distributed Web Crawler `C++` -[repo](https://github.com/kevin0748/cpp-distributed-crawler)
+- DNS Lookup `C++` -[repo](https://github.com/kevin0748/dns-lookup)
+- Reliabe Data Transfer `C++` -[repo](https://github.com/kevin0748/reliable-data-transfer)
+- Computer-Architecture Long-term Mentoring (CALM) Program Website `Ruby` -[repo](https://github.com/kevin0748/casa)
+- Max Bandwitdh Path `Java` -[repo](https://github.com/kevin0748/max-bandwitdh-path)
+- Parallel Computing `C` -[repo](https://github.com/kevin0748/parellel-computing)
 
 
-### 📫 How to reach me
+### 📫 Contacts me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chen-chuan-chang/)
 
 <!--
