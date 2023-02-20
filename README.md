@@ -1,5 +1,5 @@
 # Hi, I'm Kevin 👋
-Software Engineer with 3 years of backend developing experience. Coding in Java, Golang and Python. Familiar with monolitic, microservice and serverless arthitectures.
+Software Engineer with 3 years of backend developing experience. Coding in Java, Golang, PHP and Python. Familiar with monolitic, microservice and serverless arthitectures.
 
 ### 👨‍🎓 Education
 - **Texas A&M University** 
